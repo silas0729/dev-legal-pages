@@ -2,9 +2,9 @@
 
 生效日期 / Effective date：2026 年 8 月 23 日 / August 23, 2026
 
-开发者或运营者 / Developer or operator：**【填写 App Store 显示的开发者或公司名称】**
+开发者或运营者 / Developer or operator：**【SHAOLI HUANG】**
 
-联系邮箱 / Contact email：**【填写真实支持邮箱】**
+联系邮箱 / Contact email：**【silas980729@gmail.com】**
 
 ---
 
