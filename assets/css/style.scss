@@ -2,10 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
-.page-header-title {
+/* 隐藏顶部仓库名称标题 */
+.site-title {
   display: none !important;
 }
 .page-header {
-  padding-top:0 !important;
-  margin-bottom:0 !important;
+  padding-top: 0 !important;
+  margin-bottom: 0 !important;
 }
