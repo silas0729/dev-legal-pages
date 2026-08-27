@@ -1,7 +1,34 @@
+
+
+
+
 ---
 layout: default
 title: 应用文档主页
 ---
+
+
+CedarPitch-Support.md
+DoubleCamPRIVACY_POLICY.md
+DoubleCamSupport.md
+Privacy-Policy-Public.md
+README.md
+index.md
+liuyin-privacy.md
+liuyinSupport-Public.md
+privacy.md
+
+
+<img width="320" height="326" alt="image" src="https://github.com/user-attachments/assets/e8cfda0e-912c-4abd-aa08-76f4443c475b" />
+
+# 应用隐私与技术支持文档
+
+> 规范说明：每一款应用独立包含两份文档：**隐私政策文档**、**技术支持文档**。
+> 所有协议更新会在此页面发布，请定期查阅。如遇问题，可在 App 内联系我们。
+>
+> > 后续新增应用规则：
+> 1. 在仓库根目录新建两个md文件：`App名‑privacy.md`（隐私）、`App名‑support.md`（技术支持）
+> 2. 在本 index.md 复制上面一组模板，补充应用名称和两个链接即可。
 
 # 应用法律与支持文档
 
@@ -29,3 +56,5 @@ title: 应用文档主页
 
 > 如您有疑问，请在 App 内联系我们获取帮助。
 > 所有政策更新均会发布在此页面，请定期查阅。
+
+
