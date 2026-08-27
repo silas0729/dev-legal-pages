@@ -13,12 +13,13 @@ title: 应用文档主页
 - [隐私政策](./DoubleCamPRIVACY_POLICY.md)
 - [技术支持](./DoubleCamSupport.md)
 
-### 流音 Liuyin
+### 流影复新Liuyin
 - [隐私政策](./liuyin‑privacy.md)
 - [技术支持](./liuyinSupport‑Public.md)
 
 ### CedarPitch
 - [技术支持](./CedarPitch‑Support.md)
+- [隐私协议](./index.md)
 
 ---
 
