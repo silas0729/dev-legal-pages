@@ -9,8 +9,6 @@ title: 应用文档主页
 
 
 
-<img width="320" height="326" alt="image" src="https://github.com/user-attachments/assets/e8cfda0e-912c-4abd-aa08-76f4443c475b" />
-
 # 应用隐私与技术支持文档
 
 > 规范说明：每一款应用独立包含两份文档：**隐私政策文档**、**技术支持文档**。
